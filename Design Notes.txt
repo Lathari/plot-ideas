@@ -1,1 +1,7 @@
 1. Process Flow
+  1.1 Root 
+    1.1.1 Root.Types
+      I. Travel 
+      II. Guard 
+      III. Seek 
+      IV. Trade 
